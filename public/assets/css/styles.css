@@ -1,0 +1,53 @@
+body {
+    background-color: #F5F2EA !important;
+    font-family: "Inter";
+    src: url('https://fonts.googleapis.com/css?family=Inter');
+}
+
+.login-section .body-section {
+    margin-top: 10%;
+    position: block;
+}
+
+.login-section .body-section .login-box {
+    border-radius: 9px;
+}
+
+.login-section .body-section .login-box input {
+    border-radius: 7px !important;
+}
+
+.login-section .body-section .login-box button,
+.index-section button {
+    background-color: #FDC886;
+    border-radius: 9px;
+}
+
+.index-section h3 {
+    font-weight: 700;
+    line-height: 1;
+    text-shadow: 1px 1px white;
+    letter-spacing: 2px;
+}
+
+.index-section .right-section img {
+    width: 80%;
+}
+
+
+.login-section .body-section .login-box .bottom-login p,
+a,
+b,
+u {
+    font-size: 12px;
+}
+
+.login-section .body-section .login-box .bottom-login a,
+b,
+u {
+    color: black;
+}
+
+.header-section .dropdown-menu {
+    padding-right: 10px;
+}
